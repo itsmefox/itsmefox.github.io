@@ -1,0 +1,73 @@
+baseURL = 'https://itsmefox.io/'
+title = 'itsmefox'
+theme = "gokarna"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+author = "Patrick Bösch"
+
+# URL for the avatar on homepage
+avatarURL = "/images/itsmefox.png"
+
+# Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
+avatarSize = "size-m"
+
+# Description to display on homepage
+description = "Software Design Lead"
+
+# Accent color is displayed when you hover over <a> tags
+accentColor = "#d92066"
+
+socialIcons = [
+    { name = "github", url = "https://github.com/itsmefox" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/patrick-b%C3%B6sch-736367147/" },
+    { name = "medium", url = "https://medium.com/@itsmefox" },
+    { name = "instagram", url = "https://www.instagram.com/its.me.patrick.swiss/" },
+]
+
+# You can use this to inject any HTML in the <head> tag.
+# Ideal usecase for this is to import custom js/css or add your analytics snippet
+customHeadHTML = ""
+
+# Keywords relevant for SEO
+metaKeywords = ["itsmefox"]
+
+[menu]
+#[[menu.main]]
+#  identifier = "posts"
+#   url = "/posts/"
+#   name = "Posts"
+#   weight = 1
+#   pre = "<span data-feather='list'></span>"
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 2
+pre = "<span data-feather='package'></span>"
+
+#[[menu.main]]
+#identifier = "about"
+#name = "About"
+#url = "/about/"
+#weight = 3
+#pre = "<span data-feather='info'></span>"
+
+[[menu.main]]
+identifier = "github"
+url = "https://github.com/itsmefox"
+name = "Github"
+weight = 4
+pre = "<span data-feather='github'></span>"
