@@ -447,7 +447,7 @@ table td {
   text-align: center;
 }
 
-@media only screen and (max-width: 820px) {
+@media only screen and (max-width: 920px) {
   body {
     font-size: 0.95rem;
   }
@@ -490,7 +490,7 @@ table td {
   }
 }
 
-@media only screen and (min-width: 820px) {
+@media only screen and (min-width: 920px) {
   .nav-hamburger-list {
     visibility: hidden !important;
   }
@@ -501,6 +501,12 @@ table td {
   display: flex;
   flex-wrap: wrap;
   width: var(--content-width);
+}
+
+@media only screen and (max-width: 920px) {
+  .box-container {
+    width: 100%;
+  }
 }
 
 .box {
