@@ -71,3 +71,10 @@ url = "https://github.com/itsmefox"
 name = "Github"
 weight = 4
 pre = "<span data-feather='github'></span>"
+
+[[menu.main]]
+identifier = "viascom"
+url = "https://viascom.io"
+name = "Viascom"
+weight = 5
+pre = "<span data-feather='briefcase'></span>"
