@@ -39,5 +39,3 @@ These projects are no longer maintained but are still a good knowledge base.
       <i>Collection of useful libraries for Java and Android.</i>
     </div>
 </div>
-
-test
