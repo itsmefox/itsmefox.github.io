@@ -13,9 +13,9 @@ These projects are in active development.
       <i>The best Guild Wars 2 Bot for Discord 🤖</i>
     </div>
     <div class="box">
-      <img src="/images/Curo-Logo_500x500.png"/>
-      <h3><a href="https://github.com/umb/curo" target="_blank">Curo</a></h3>
-      <i>Best Open Source Camunda Development Starter Package</i>
+      <img src="https://github.com/viascom/aluna-spring-boot-starter/raw/main/logo.png"/>
+      <h3><a href="https://github.com/viascom/aluna-spring-boot-starter" target="_blank">Aluna</a></h3>
+      <i>Spring-Boot-Starter for Discord Bots based on JDA</i>
     </div>
 </div>
 
@@ -37,5 +37,10 @@ These projects are no longer maintained but are still a good knowledge base.
       <img src="https://raw.githubusercontent.com/viascom/groundwork/develop/ViascomGroundWorkIcon.png"/>
       <h3><a href="https://github.com/viascom/groundwork" target="_blank">GroundWork</a></h3>
       <i>Collection of useful libraries for Java and Android.</i>
+    </div>
+    <div class="box">
+      <img src="/images/Curo-Logo_500x500.png"/>
+      <h3><a href="https://github.com/umb/curo" target="_blank">Curo</a></h3>
+      <i>Best Open Source Camunda Development Starter Package</i>
     </div>
 </div>

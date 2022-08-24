@@ -33,7 +33,6 @@ socialIcons = [
     { name = "github", url = "https://github.com/itsmefox" },
     { name = "linkedin", url = "https://www.linkedin.com/in/patrick-b%C3%B6sch-736367147/" },
     { name = "medium", url = "https://medium.com/@itsmefox" },
-    { name = "instagram", url = "https://www.instagram.com/its.me.patrick.swiss/" },
 ]
 
 # You can use this to inject any HTML in the <head> tag.
